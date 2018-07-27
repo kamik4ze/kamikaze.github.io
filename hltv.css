@@ -1,0 +1,26 @@
+body{
+	background-color: #FCF4F4;
+	}
+
+.header{
+	height: 10%;	
+    }
+
+.smithzzz{
+	border: 2px groove;
+	font-family: roboto;
+	}
+
+.btn-custom{background-color: #FFFFFF;
+	}
+
+.shox{text-align: center;
+	}
+
+.div-info:hover{
+	background-color: #F4EFEF;
+}
+.img-fluid{
+	max-width: auto;
+	height: auto;
+	}
